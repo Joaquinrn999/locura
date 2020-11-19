@@ -1,0 +1,2 @@
+# locura
+mi primer repositorio 
